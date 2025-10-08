@@ -1,5 +1,5 @@
 # NM-Project-Frontend-Tech-Product-Catalog-with-Filters
-Using HTML,CSS,JS We have created a PRODUCT CATALOG WITH FILTERS to select various wide variety of mobiles to buy based on Brands,Price,Range,Model and Looks
+
 Problem Statement
 Customers often face difficulties in browsing through a large product catalog without proper filtering options. This leads to frustration, longer search times, and abandoned sessions. Businesses also struggle to present their products in a way that allows customers to find what they need quickly and efficiently. A product catalog with robust filtering options is required to enhance user experience, improve product discoverability, and increase conversion rates.
 Users and Stakeholders
